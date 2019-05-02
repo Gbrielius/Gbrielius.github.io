@@ -1,5 +1,7 @@
 # mediaLab5
 
+tested on firefox, chrome
+
 This lab aims to build video streaming app based on WebRTC framework.
 
 Some good examples:
